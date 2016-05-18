@@ -1,6 +1,6 @@
-# Experience Tracker for Android and Android Wear
+# Mood Tracker for Android and Android Wear
 
-Android Studio project for the Experience Tracker Android app.
+Android Studio project for the Mood Tracker Android app.
 Project is forked from: https://github.com/google/climb-tracker
 and still has some unnecessary code from original to be cleaned and some refactoring to be done.
 
