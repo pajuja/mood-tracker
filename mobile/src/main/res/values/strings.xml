@@ -3,7 +3,7 @@
 
     <string name="firebase_url">https://YOUR_FIREBASEAPP.firebaseio.com/</string>
     <string name="fb_current">current</string>
-    <string name="app_name">Experience Tracker</string>
+    <string name="app_name">Mood Tracker</string>
 
     <string name="title_climbsession_detail">Climbing session</string>
 
